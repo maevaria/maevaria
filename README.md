@@ -1,4 +1,4 @@
-[![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*3ojPdzBa8VxgsLP-.gif)
+![MasterHead](https://miro.medium.com/v2/resize:fit:4800/format:webp/0*3ojPdzBa8VxgsLP-.gif)
 <h1 align="center">Hi 👋, I'm Irish Mae Abella</h1>
 <h3 align="center">Numbers, coffee, and passion — that’s me, a management accountant from PH 📚</h3>
 <img align="right" alt="Coding" width="400" src="https://i.graphicmama.com/uploads/2023/3/64147197e3e22-602a6550971b4-Elegant%20Businesswoman%20Animated%20GIFs%20Collection.gif">
